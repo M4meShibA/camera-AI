@@ -1,0 +1,19 @@
+# ビルド成果物
+*.exe
+*.o
+*.obj
+
+# モデル・重いファイル(各自で用意する)
+*.onnx
+*.pt
+*.mp4
+*.avi
+*.mov
+
+# エディタ・OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+detection_log.json
